@@ -1,4 +1,3 @@
-# classification
 
 # Proposal: ----
 ## Introduction:
