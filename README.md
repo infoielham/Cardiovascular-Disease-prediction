@@ -1,11 +1,10 @@
 
 # Proposal: Cardiovascular Disease dataset
-## Introduction: this dataset contains 70000 recoreds of personal vital signe along with spesfic features like Cholesterol, Glucose,,,,,,,.
-----
+## Introduction: 
+This study aims to create a model that uses limited patient information to extract the relationship between cardiovascular disease with other vital signe features.
 ## Case Problem:
-creeat predction model that can predect the cardiovasculare
-study indepthe evlution of cardiovasculare Disease
-study that show the probabilty of cardiovasculare Disease upon their medecal records.
+Find best prediction model of cardiovasculare Disease upon medecal records.
+
 ----
 ## Project Management Approach:
  - Scrum
@@ -55,7 +54,7 @@ from Kaggle website [[Kaggle]] https://www.kaggle.com/sulianova/cardiovascular-d
 
 ## Team Members
  - Elham Alzahrani
- - Nouf
+ - Nouf Alkhaldi
  - Abdulrahim Alshehri
  
 
