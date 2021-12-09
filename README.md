@@ -1,5 +1,6 @@
 
 #  Cardiovascular Disease dataset Proposal
+<hr>
 
 ## Introduction: 
 This study aims to create a model that uses limited patient information to extract the relationship between cardiovascular disease with other vital signe features.
@@ -42,12 +43,11 @@ from Kaggle website [[Kaggle]] https://www.kaggle.com/sulianova/cardiovascular-d
 -
 
 ## Tools:
-### Softwares:
+-Libraries: pandas, numpy, matplotlib, seaborn, sklearn.
+
+-Softwares: Trello, GitHub, Jupyter, PowerPoint, Zoom.
 <hr>
 
-
-### Languages & Libarry
-<hr>
 
    
 ## MVP goals:
