@@ -1,7 +1,6 @@
 
 #  Cardiovascular Disease dataset Proposal
 
-
 ## Introduction: 
 This study aims to create a model that uses limited patient information to extract the relationship between cardiovascular disease with other vital signe features.
 ## Case Problem:
@@ -55,8 +54,8 @@ from Kaggle website [[Kaggle]] https://www.kaggle.com/sulianova/cardiovascular-d
 
 
 ## Team Members
- - Elham Alzahrani
- - Nouf Alkhaldi
- - Abdulrahim Alshehri
+ - [@Elham Alzahrani]
+ - [@Nouf Alkhaldi]
+ - [@Abdulrahim Alshehri]
  
 
