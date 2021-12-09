@@ -1,5 +1,7 @@
 
-# Proposal: Cardiovascular Disease dataset
+#  Cardiovascular Disease dataset Proposal
+
+
 ## Introduction: 
 This study aims to create a model that uses limited patient information to extract the relationship between cardiovascular disease with other vital signe features.
 ## Case Problem:
