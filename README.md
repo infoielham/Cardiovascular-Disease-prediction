@@ -5,7 +5,7 @@
 ## Introduction: 
 This study aims to create a model that uses limited patient information to extract the relationship between cardiovascular disease with other vital signe features.
 ## Case Problem:
-Find best prediction model of cardiovasculare Disease upon medecal records.
+Find best prediction model if the individual more likely having a cardiovascular disease or not to help accelerating the process of medication to get recovery and awareness
 
 ----
 
@@ -31,29 +31,31 @@ Find best prediction model of cardiovasculare Disease upon medecal records.
 from Kaggle website [[Kaggle]] https://www.kaggle.com/sulianova/cardiovascular-disease-dataset
 
 ## Questions:
-1. 
-2. 
-3.
-4. 
+1. what is the percentage of cardiovascular disease per gender?
+2. what is the average of having cardiovascular disease along with three kinds of cholesterol?
+3. what is the relationship between glucose and cardiovascular disease?
+4. what are the most generations ages along with cardiovascular disease?
+5. what is the relationship between the alcoholic and smoker people along with cholesterol?
 
 
 ## Algorithms:
--
--
+- Logistic Regression.
+- XGBoost.
+- Support Vector Machine.
+- Random Forest.
+- K-Nearest Neighbors.
+- Decision Tree.
+- Staking.
 
 ## Tools:
--Libraries: pandas, numpy, matplotlib, seaborn, sklearn.
+- Libraries: pandas, numpy, matplotlib, seaborn, MLextend, sklearn,XGBoost,Statsmodels.
 
--Softwares: Trello, GitHub, Jupyter, PowerPoint, Zoom.
+- Softwares: Trello, GitHub, Jupyter, prize, Zoom.
 <hr>
 
 
-   
-## MVP goals:
-
-
 ## Team Members
- - Elham Alzahrani
+ - Elham Alzahrani (Leader)
  - Nouf Alkhaldi
  - Abdulrahim Alshehri
  
