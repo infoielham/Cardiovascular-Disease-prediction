@@ -8,8 +8,7 @@ This study aims to create a model that uses limited patient information to extra
 Find best prediction model of cardiovasculare Disease upon medecal records.
 
 ----
-## Project Management Approach:
- - Scrum
+
  
 ## Data Features & description:
 - **Age**:   Objective Feature | age | int (days)
