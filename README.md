@@ -56,7 +56,7 @@ from Kaggle website [[Kaggle]] https://www.kaggle.com/sulianova/cardiovascular-d
 
 ## Team Members
  - [Elham Alzahrani-Leader](https://github.com/infoielham)
- - Nouf Alkhaldi[]
- - Abdulrahim Alshehri
+ - [Nouf Alkhaldi](https://github.com/Nouf93)
+ - [Abdulrahim Alshehri](https://github.com/abdulrahim999)
  
 
